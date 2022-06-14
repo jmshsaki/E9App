@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/e9care/app/e9care/MainActivity.java
+ com.e9care.app.e9care.MainActivity
+com/e9care/app/e9care/BuildConfig.java
+ com.e9care.app.e9care.BuildConfig
